@@ -22,3 +22,13 @@ h2{
 
     font-family: inter;
 }
+
+img{
+
+    width: 20%;
+}
+
+ul:hover{
+background-color: blue;
+
+}
